@@ -3,7 +3,7 @@
 
 <i>This is an ongoing project.</i>
 
-[PA004](https://github.com/fabianaba/Insurance_Cross_Sell/blob/main/pa004.png)
+![PA004](https://github.com/fabianaba/Insurance_Cross_Sell/blob/master/pa004.png)
 
 ## 1. Business problem
 
@@ -37,4 +37,4 @@ In order to answer these questions, the machine learning model must inform the p
 
 
 
-#### <i>---This is an ongoing project and the next steps will be added as soon as they have been reached.</i>
+#### <i>  --- This is an ongoing project and the next steps will be added as soon as they have been reached.</i>
