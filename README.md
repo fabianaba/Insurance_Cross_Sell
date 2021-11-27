@@ -3,7 +3,7 @@
 
 <i>This is an ongoing project.</i>
 
-[PA004](https://github.com/fabianaba/Insurance_Cross_Sell/blob/main/images/pa004.png)
+[PA004](https://github.com/fabianaba/Insurance_Cross_Sell/blob/main/pa004.png)
 
 ## 1. Business problem
 
