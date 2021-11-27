@@ -1,9 +1,9 @@
 # Insurance All - Cross Sell
-<i>This is an ongoing project.</i>
-
 [Classification Techniques][Ranking System] Prediction of most probable customers to purchase a new _vehicle insurance_.
 
-![PA004](https://github.com/fabianaba/Insurance_Cross_Sell/blob/main/images/pa004.png)
+<i>This is an ongoing project.</i>
+
+[PA004](https://github.com/fabianaba/Insurance_Cross_Sell/blob/main/images/pa004.png)
 
 ## 1. Business problem
 
@@ -22,7 +22,7 @@ Insurance All is a fictitious insurance company that traditionally has provided 
 * __Vintage__: Amount of time (in days) since the customer is associated with the company.
 * __Response__: Whether the customer is interested in purchasing the vehicle insurance, or not.
 
-The company hired a Data Science consulting firm to define a data-driven marketing strategy to sell the new product by clarifying some questions:
+The company has hired a Data Science consulting firm to define a data-driven marketing strategy to sell the new product by clarifying some questions:
 
 1. Among all the features gathered, which ones show more evidence of intent of the customers to purchase a car insurance?
 
@@ -35,4 +35,6 @@ The company hired a Data Science consulting firm to define a data-driven marketi
 In order to answer these questions, the machine learning model must inform the probability that each client would purchase the vehicle insurance, and the database must be sorted by this information. Having the clients with higher probabilities ranked on top, the questions above could be addressed.
 
 
-# <i>This is an ongoing project.</i>
+
+
+#### <i>---This is an ongoing project and the next steps will be added as soon as they have been reached.</i>
