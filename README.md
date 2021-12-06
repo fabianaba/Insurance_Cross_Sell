@@ -32,7 +32,7 @@ The company has hired a Data Science consulting firm to define a data-driven mar
 
 4. How many calls does the sales team need to make in order to reach 80\% of the interested customers?
 
-In order to answer these questions, the machine learning model must inform the probability that each client would purchase the vehicle insurance, and the database must be sorted by this information. Having the clients with higher probabilities ranked on top, the questions above could be addressed.
+In order to answer these questions, the machine learning model must inform the probability that each client would purchase the vehicle insurance, and the database must be sorted by this information. Having the clients with higher probabilities ranked on top, the questions above would be properly addressed.
 
 ## 2. Business assumptions
 
