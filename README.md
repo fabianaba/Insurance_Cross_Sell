@@ -1,5 +1,5 @@
 # Insurance All - Cross Sell
-[Classification Techniques][Ranking System] Prediction of most probable customers to purchase a new _vehicle insurance_.
+[Classification Techniques][Ranking System] Prediction of most probable customers to purchase a _vehicle insurance_.
 
 <i>This is an ongoing project.</i>
 
@@ -7,7 +7,7 @@
 
 ## 1. Business problem
 
-<i>Insurance All</i> is a fictitious insurance company that traditionally has provided Health Insurance and now intends to offer its customers a new product, a Vehicle Insurance. In order to achieve this purpose efficiently, it gathered some information about their current customers and asked if they would be interested in purchasing a new vehicle insurance. The dataset features are:
+<i>Insurance All</i> is a fictitious insurance company that traditionally has provided Health Insurance and now intends to offer its customers a new product, a Vehicle Insurance. In order to achieve this purpose efficiently, it gathered some information about their current customers and asked if they would be interested in purchasing a vehicle insurance. The dataset features are:
 
 * __id__: Unique ID for the customer
 * __Gender__: Gender of the customer
