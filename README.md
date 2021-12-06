@@ -17,7 +17,7 @@ Insurance All is a fictitious insurance company that traditionally has provided 
 * __Previously Insured__: Whether the customer already has a vehicle insurance or not.
 * __Vehicle Age__: Age of the vehicle.
 * __Vehicle Damage__: Whether the vehicle has suffered damage in the past or not.
-* __Annual Premium__: The amount paied by the customer annually.
+* __Annual Premium__: The amount paid by the customer annually.
 * __Policy Sales Channel__: Anonymized code for the channel of outreaching the customer.
 * __Vintage__: Amount of time (in days) since the customer is associated with the company.
 * __Response__: Whether the customer is interested in purchasing the vehicle insurance or not.
