@@ -1,5 +1,5 @@
 # Insurance All - Cross Sell
-[Classification Techniques][Ranking System] Prediction of most probable customers to purchase a _vehicle insurance_.
+[Classification Techniques][Ranking System] Prediction of most probable current customers to purchase a new product, _vehicle insurance_.
 
 <i>This is an ongoing project.</i>
 
