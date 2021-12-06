@@ -7,7 +7,7 @@
 
 ## 1. Business problem
 
-Insurance All is a fictitious insurance company that traditionally has provided Health Insurance now intends to offer its customers a new product, a Vehicle Insurance. In order to achieve this purpose efficiently, it gathered some information about their current customers and asked if they would be interested in purchasing a new vehicle insurance. The dataset features are:
+<i>Insurance All</i> is a fictitious insurance company that traditionally has provided Health Insurance and now intends to offer its customers a new product, a Vehicle Insurance. In order to achieve this purpose efficiently, it gathered some information about their current customers and asked if they would be interested in purchasing a new vehicle insurance. The dataset features are:
 
 * __id__: Unique ID for the customer
 * __Gender__: Gender of the customer
@@ -33,6 +33,10 @@ The company has hired a Data Science consulting firm to define a data-driven mar
 4. How many calls does the sales team need to make in order to reach 80\% of the interested customers?
 
 In order to answer these questions, the machine learning model must inform the probability that each client would purchase the vehicle insurance, and the database must be sorted by this information. Having the clients with higher probabilities ranked on top, the questions above could be addressed.
+
+## 2. Business assumptions
+
+* Vehicle Insurance is not mandatory under the law
 
 
 
