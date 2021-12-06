@@ -12,15 +12,15 @@ Insurance All is a fictitious insurance company that traditionally has provided 
 * __id__: Unique ID for the customer.
 * __Gender__: Gender of the customer.
 * __Age__: Age of the customer
-* __Driving License__: Whether the customer has a driving license, or not.
+* __Driving License__: Whether the customer has a driving license or not.
 * __Region Code__: Unique code for the location of the customer.
-* __Previously Insured__: Whether the customer already has a vehicle insurance, or not.
+* __Previously Insured__: Whether the customer already has a vehicle insurance or not.
 * __Vehicle Age__: Age of the vehicle.
-* __Vehicle Damage__: Whether the vehicle has suffered damage in the past, or not.
+* __Vehicle Damage__: Whether the vehicle has suffered damage in the past or not.
 * __Annual Premium__: The amount paied by the customer annually.
 * __Policy Sales Channel__: Anonymized code for the channel of outreaching the customer.
 * __Vintage__: Amount of time (in days) since the customer is associated with the company.
-* __Response__: Whether the customer is interested in purchasing the vehicle insurance, or not.
+* __Response__: Whether the customer is interested in purchasing the vehicle insurance or not.
 
 The company has hired a Data Science consulting firm to define a data-driven marketing strategy to sell the new product by clarifying some questions:
 
