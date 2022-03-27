@@ -4,6 +4,9 @@
 *.ap_
 *.aab
 
+# Data
+*.csv
+
 # Files for the ART/Dalvik VM
 *.dex
 
