@@ -36,7 +36,7 @@ In order to answer these questions, the machine learning model must inform the p
 
 ## 2. Business assumptions
 
-* Pursuing a Vehicle Insurance is NOT mandatory under the law
+* Pursuing Vehicle Insurance is NOT mandatory for this case study.
 
 * The sales team works with Google Sheets as a corporate tool. The solution must be presented in the same format.
 
