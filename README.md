@@ -1,7 +1,5 @@
 # Insurance All - Cross Sell
-[Classification Techniques][Learning to Rank LTR System] Prediction of most probable current customers to purchase a new product, a _vehicle insurance_.
-
-<i>This is an ongoing project.</i>
+[Classification Techniques][Learn to Rank, LTR System] Prediction of most probable current customers to purchase a new product, a _vehicle insurance_.
 
 ![PA004](https://github.com/fabianaba/Insurance_Cross_Sell/blob/master/pa004.png)
 
@@ -16,11 +14,11 @@
 * __Region Code__: Unique code for the location of the customer
 * __Previously Insured__: Whether the customer already has a vehicle insurance or not
 * __Vehicle Age__: Age of the vehicle
-* __Vehicle Damage__: Whether the vehicle has suffered damage in the past or not
-* __Annual Premium__: The amount paid by the customer annually for the current health insurance
+* __Vehicle Damage__: Whether the customer already had a vehicle that has suffered damage in the past or not
+* __Annual Premium__: The amount paid by the customer annually for the current Health Insurance
 * __Policy Sales Channel__: Anonymized code for the channel of outreaching the customer
 * __Vintage__: Amount of time (in days) the customer is under the current term for the health insurance
-* __Response__: Whether the customer is interested in purchasing the vehicle insurance or not
+* __Response__: Whether the customer is interested in purchasing a Vehicle Insurance or not
 
 The company has hired a Data Science consulting firm to define a data-driven marketing strategy to sell the new product by clarifying some questions:
 
@@ -36,7 +34,7 @@ In order to answer these questions, the machine learning model must inform the p
 
 ## 2. Business assumptions
 
-* Pursuing Vehicle Insurance is NOT mandatory for this case study.
+* Pursuing Vehicle Insurance is NOT mandatory in this case study scenario.
 
 * The sales team works with Google Sheets as a corporate tool. The solution must be presented in the same format.
 
@@ -56,7 +54,7 @@ What tools will be used in the process?
 
 * Jupiter Notebook
 
-* Git, Github and Gitlab
+* Git and Github
 
 * Coggle Mindmaps
 
