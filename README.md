@@ -12,13 +12,13 @@
 * __Age__: Age of the customer
 * __Driving License__: Whether the customer has a driving license or not
 * __Region Code__: Unique code for the location of the customer
-* __Previously Insured__: Whether the customer already has a vehicle insurance or not
+* __Previously Insured__: Whether the customer currently have a vehicle insurance or not
 * __Vehicle Age__: Age of the vehicle
 * __Vehicle Damage__: Whether the customer already had a vehicle that has suffered damage in the past or not
 * __Annual Premium__: The amount paid by the customer annually for the current Health Insurance
 * __Policy Sales Channel__: Anonymized code for the channel of outreaching the customer
 * __Vintage__: Amount of time (in days) the customer is under the current term for the health insurance
-* __Response__: Whether the customer is interested in purchasing a Vehicle Insurance or not
+* __Response__: Whether the customer is interested in purchasing a (new) Vehicle Insurance or not
 
 The company has hired a Data Science consulting firm to define a data-driven marketing strategy to sell the new product by clarifying some questions:
 
