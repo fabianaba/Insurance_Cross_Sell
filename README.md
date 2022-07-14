@@ -1,5 +1,5 @@
 # Insurance All - Cross Sell
-[Classification Techniques][Learn to Rank, LTR System] 
+[Classification Techniques] [Learn to Rank, LTR System] 
 
 Prediction of most probable current customers to purchase a new product, a _vehicle insurance_.
 
@@ -74,9 +74,9 @@ What tools will be used in the process?
 
 * Google Sheets Apps Script.
 
-## 4. Other applications for this project approach
+## 4. Other applications for this project approach at the insurance industry
 
-In countries like Canada, where holding a vehicle insurance is mandatory, this project still could be applied at an insurance broker firm with the intention of offering the clients a tenants insurance package, for example.
+In countries like Canada, where holding a vehicle insurance is mandatory, this project still could be applied to an insurance broker firm with the intention of offering the clients a tenants insurance package, for example.
 
 
 
