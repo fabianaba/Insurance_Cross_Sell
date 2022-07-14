@@ -22,13 +22,13 @@
 
 The company has hired a Data Science consulting firm to define a data-driven marketing strategy to sell the new product by clarifying some questions:
 
-1. Among all the features gathered, which ones show more evidence of a client's intention of purchase a car insurance?
+1. Among all the features gathered, which ones show more evidence of a client's intention of purchase an automobile insurance?
 
-2. If the team sales is able to make 20,000 calls to offer the product, which fraction of a new group of 76,000 customers would be reached?
+2. If the sales team is able to make 20,000 calls to offer the product, which fraction of a new group of 76,000 customers would be reached?
 
 3. If the sales team is now able to make 40,000 calls, which fraction of the customers would be reached?
 
-4. How many calls does the sales team need to make in order to reach 80\% of the interested customers?
+4. How many calls does the sales team need to make, in order to reach 80\% of the interested customers?
 
 In order to answer these questions, the machine learning model must inform the probability for each client to purchase the vehicle insurance, and the new database must be sorted by this information. Having the clients with higher probabilities ranked on top, the questions above would be properly addressed.
 
@@ -36,7 +36,7 @@ In order to answer these questions, the machine learning model must inform the p
 
 * Pursuing Vehicle Insurance is NOT mandatory in this case study scenario.
 
-* The sales team works with Google Sheets as a corporate tool. The solution must be presented in the same format.
+* The sales team currently works with Google Sheets as a corporate tool. The solution would be presented in the same format.
 
 ## 3. Solution planning
 
@@ -44,7 +44,7 @@ In order to answer these questions, the machine learning model must inform the p
 
 What will actually be delivered?
 
-A feature within the Google Sheets tool, which sorts the 76,000 customers (or any new customers included in the spreadsheet) by purchase tendency.
+A feature within the Google Sheets tool, which sorts the 76,000 customers (or any new customers included in the spreadsheet) by the purchase tendency.
 
 * __3.2. Tools__:
 
@@ -72,10 +72,9 @@ What tools will be used in the process?
 
 * Google Sheets Apps Script.
 
+## 4. Other applications for this project approach
 
-
-
-
+In scenarios like in Canada, where vehicle insurance hold is mandatory, this project would still be easily applied to offer the clients a tenants insurance package.
 
 
 
