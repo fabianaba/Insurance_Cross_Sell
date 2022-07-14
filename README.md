@@ -76,7 +76,7 @@ What tools will be used in the process?
 
 ## 4. Other applications for this project approach
 
-In countries like Canada, where holding a vehicle insurance is mandatory, this project would still be applied with the intention of offering the clients a tenants insurance package, for example.
+In countries like Canada, where holding a vehicle insurance is mandatory, this project still could be applied at an insurance broker firm with the intention of offering the clients a tenants insurance package, for example.
 
 
 
