@@ -1,5 +1,7 @@
 # Insurance All - Cross Sell
-[Classification Techniques][Learn to Rank, LTR System] Prediction of most probable current customers to purchase a new product, a _vehicle insurance_.
+[Classification Techniques][Learn to Rank, LTR System] 
+
+Prediction of most probable current customers to purchase a new product, a _vehicle insurance_.
 
 ![PA004](https://github.com/fabianaba/Insurance_Cross_Sell/blob/master/pa004.png)
 
@@ -74,7 +76,7 @@ What tools will be used in the process?
 
 ## 4. Other applications for this project approach
 
-In scenarios like in Canada, where vehicle insurance hold is mandatory, this project would still be easily applied to offer the clients a tenants insurance package.
+In countries like Canada, where holding a vehicle insurance is mandatory, this project would still be applied with the intention of offering the clients a tenants insurance package, for example.
 
 
 
